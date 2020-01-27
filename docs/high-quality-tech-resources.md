@@ -505,6 +505,11 @@
 
 [![The Cloudcast](images/thecloudcast.png)](http://www.thecloudcast.net)
 
+### Big Data Trends
+
+- [Top 10 Big Data Analytics Trends for 2020](https://www.techmediatoday.com/top-10-big-data-analytics-trends-for-2020/)
+- [5 Data And Analytics Trends To Watch Out For In 2020](https://bigdataanalyticsnews.com/data-analytics-trends-to-watch/)
+
 ### Devops Podcasts
 - [The ship show](http://theshipshow.com/)
 - [Arrested Devops](http://theshipshow.com/)
